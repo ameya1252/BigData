@@ -2,11 +2,6 @@
 
 This repository contains the materials and solutions for Project 5, focusing on Big Data analysis using PySpark within an Anaconda environment and Jupyter Notebook. The project covers a range of tasks from data manipulation to complex queries involving temperature and precipitation data.
 
-## Important Notes
-
-- Please ensure to start working on the project well before the deadline. Late submissions will not be granted an extension.
-- There has been a noted issue with accessing the weather data via the provided URL. To address this, the necessary dataset has been packaged as `data.zip` and is available in this repository for direct download and use.
-
 ## Project Structure
 
 This project includes the following main components:
